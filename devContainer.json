@@ -1,5 +1,0 @@
-{
-    "name": "C++",
-    // Note: This image is specific to Debian 12. Update the image if compatibility with other Debian versions is required.
-    "image": "mcr.microsoft.com/devcontainers/cpp:1-debian-12"
-}
