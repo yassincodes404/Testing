@@ -1,6 +1,7 @@
-#include <iostream>
+#include "./SnakeGameTesting/SnakeGame.h" // Adjust the path to match the actual location of SnakeGame.h
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    SnakeGame game;
+    game.Run();
     return 0;
 }
